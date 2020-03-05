@@ -1,0 +1,1452 @@
+dic 28, 2019 11:23:10 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+dic 28, 2019 11:23:14 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+dic 28, 2019 11:30:42 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/263505e079f4e703339.88986219.png\",\"bannerAction\":\"https:\\\/\\\/www.booking.com\\\/index.html?aid=344716&label=operasoft-dial-344716\"}"}, channel=era}
+dic 28, 2019 11:30:44 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+dic 28, 2019 11:30:44 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+dic 28, 2019 11:36:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+dic 28, 2019 11:36:42 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+dic 28, 2019 11:36:44 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+dic 28, 2019 11:37:08 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/107325e07a0d3c67d01.73241473.png\",\"bannerAction\":\"https:\\\/\\\/www.booking.com\\\/index.html?aid=344716&label=operasoft-dial-344716\"}"}, channel=era}
+dic 28, 2019 11:37:10 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+dic 28, 2019 11:37:10 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+dic 28, 2019 11:38:21 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+dic 28, 2019 11:38:22 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+dic 28, 2019 11:38:26 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/186465e07a12203d245.94130213.png\",\"bannerAction\":\"https:\\\/\\\/www.booking.com\\\/index.html?aid=344716&label=operasoft-dial-344716\"}"}, channel=era}
+dic 28, 2019 11:38:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+dic 28, 2019 11:38:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+dic 28, 2019 11:41:56 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/65925e07a1f3d0ca28.23772469.png\",\"bannerAction\":\"https:\\\/\\\/www.booking.com\\\/index.html?aid=344716&label=operasoft-dial-344716\"}"}, channel=era}
+dic 28, 2019 11:41:56 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+dic 28, 2019 11:41:57 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+dic 28, 2019 11:46:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+dic 28, 2019 11:46:17 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+dic 28, 2019 11:46:22 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/80405e07a2fd62b305.38698108.png\",\"bannerAction\":\"https:\\\/\\\/www.booking.com\\\/index.html?aid=344716&label=operasoft-dial-344716\"}"}, channel=era}
+dic 28, 2019 11:46:23 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+dic 28, 2019 11:46:23 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+dic 28, 2019 11:51:45 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTED
+dic 28, 2019 11:51:46 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+dic 28, 2019 11:51:47 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+dic 28, 2019 3:14:12 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTED
+dic 28, 2019 3:17:59 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+dic 28, 2019 3:18:00 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+dic 28, 2019 3:20:33 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/148905e07d52c90e7e2.02100719.png\",\"bannerAction\":\"https:\\\/\\\/www.google.com\\\/\"}"}, channel=era}
+dic 28, 2019 3:20:33 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+dic 28, 2019 3:20:33 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+dic 28, 2019 3:21:46 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/301115e07d576e961c5.93708095.png\",\"bannerAction\":\"https:\\\/\\\/www.google.com\\\/\"}"}, channel=era}
+dic 28, 2019 3:21:46 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+dic 28, 2019 3:21:46 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+dic 28, 2019 4:04:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+dic 28, 2019 4:04:35 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 11, 2020 2:34:38 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 11, 2020 2:34:46 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 11, 2020 2:35:00 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/219635e1a3f7fd7eb66.66940083.png\",\"bannerAction\":\"https:\\\/\\\/www.google.com\"}"}, channel=era}
+ene 11, 2020 2:36:00 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 11, 2020 2:36:04 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 11, 2020 2:36:21 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/149225e1a3fd145c669.22741699.png\",\"bannerAction\":\"https:\\\/\\\/www.google.com\"}"}, channel=era}
+ene 11, 2020 2:38:45 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 11, 2020 2:38:50 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 11, 2020 2:39:04 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/256125e1a40752c60f5.96946328.png\",\"bannerAction\":\"https:\\\/\\\/www.google.com\"}"}, channel=era}
+ene 11, 2020 2:39:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 11, 2020 2:39:59 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 11, 2020 2:40:01 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/59315e1a40afde41c9.46632599.png\",\"bannerAction\":\"https:\\\/\\\/www.google.com\"}"}, channel=era}
+ene 11, 2020 2:41:23 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 11, 2020 2:41:29 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 11, 2020 2:41:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/253625e1a41090ba1b8.33852741.png\",\"bannerAction\":\"https:\\\/\\\/www.google.com\"}"}, channel=era}
+ene 11, 2020 2:42:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 11, 2020 2:43:00 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 11, 2020 2:43:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/315655e1a416a18f465.78304873.png\",\"bannerAction\":\"https:\\\/\\\/www.google.com\"}"}, channel=era}
+ene 11, 2020 2:43:09 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 11, 2020 2:43:09 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 11, 2020 2:45:25 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 11, 2020 2:45:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 11, 2020 2:45:35 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/189445e1a41fbdcf932.03033430.png\",\"bannerAction\":\"https:\\\/\\\/www.google.com\"}"}, channel=era}
+ene 11, 2020 2:46:53 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 11, 2020 2:47:00 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 11, 2020 2:47:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/206395e1a4254f17a97.45003089.png\",\"bannerAction\":\"https:\\\/\\\/www.google.com\"}"}, channel=era}
+ene 11, 2020 2:49:42 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 11, 2020 2:49:47 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 11, 2020 2:49:53 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/303215e1a42fe24cce2.77970235.png\",\"bannerAction\":\"https:\\\/\\\/www.google.com\"}"}, channel=era}
+ene 11, 2020 2:49:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 11, 2020 2:49:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 11, 2020 2:49:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 11, 2020 2:49:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 11, 2020 2:49:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 11, 2020 2:49:56 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 11, 2020 2:49:56 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 11, 2020 2:49:56 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 11, 2020 2:49:56 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 11, 2020 2:52:51 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 11, 2020 2:52:56 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 11, 2020 2:53:00 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/200525e1a43b8f26714.17814859.png\",\"bannerAction\":\"https:\\\/\\\/www.google.com\"}"}, channel=era}
+ene 11, 2020 2:53:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 11, 2020 2:53:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 11, 2020 2:53:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 11, 2020 2:53:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 11, 2020 2:53:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 11, 2020 2:53:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 11, 2020 2:53:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 11, 2020 2:53:03 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 11, 2020 2:53:03 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 11, 2020 2:53:03 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 11, 2020 2:53:03 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 11, 2020 2:53:03 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 11, 2020 2:57:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 11, 2020 2:57:27 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 11, 2020 2:58:23 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/307115e1a44fca87963.02134186.png\",\"bannerAction\":\"https:\\\/\\\/www.google.com\"}"}, channel=era}
+ene 11, 2020 2:58:25 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 11, 2020 2:58:25 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 11, 2020 2:58:25 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 11, 2020 2:58:25 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 11, 2020 2:58:25 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 11, 2020 2:58:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 11, 2020 2:58:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 11, 2020 2:58:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 11, 2020 2:58:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 11, 2020 2:58:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 11, 2020 2:58:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 11, 2020 2:58:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 11, 2020 3:17:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 11, 2020 3:17:29 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 11, 2020 3:22:52 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/314635e1a4ab9e53fe4.53371077.png\",\"bannerAction\":\"https:\\\/\\\/www.google.com\"}"}, channel=era}
+ene 11, 2020 3:22:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 11, 2020 3:22:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 11, 2020 3:22:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 11, 2020 3:22:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 11, 2020 3:22:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 11, 2020 3:22:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 11, 2020 3:22:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 11, 2020 3:22:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 11, 2020 3:22:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 11, 2020 3:22:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 11, 2020 3:22:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 11, 2020 3:22:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 13, 2020 4:24:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 13, 2020 4:24:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 13, 2020 4:24:36 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/145675e1cfc33940cc3.69428198.png\",\"bannerAction\":\"https:\\\/\\\/us04web.zoom.us\\\/j\\\/248119598?pwd=RHZkY1dLemFXb3ptN0h4dDQ4d3BIUT09\"}"}, channel=era}
+ene 13, 2020 4:24:39 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 13, 2020 4:24:39 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 13, 2020 4:24:39 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 13, 2020 4:24:39 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 13, 2020 4:24:39 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 13, 2020 4:24:40 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 13, 2020 4:24:40 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 13, 2020 4:24:40 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 13, 2020 4:24:40 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 13, 2020 4:24:40 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 13, 2020 4:24:40 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 13, 2020 4:24:40 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 13, 2020 4:26:12 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/226875e1cfc941fb715.82832529.png\",\"bannerAction\":\"https:\\\/\\\/us04web.zoom.us\\\/j\\\/248119598?pwd=RHZkY1dLemFXb3ptN0h4dDQ4d3BIUT09\"}"}, channel=era}
+ene 13, 2020 4:26:12 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 13, 2020 4:26:12 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 13, 2020 4:26:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 13, 2020 4:26:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 13, 2020 4:26:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 13, 2020 4:26:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 13, 2020 4:26:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 13, 2020 4:26:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 13, 2020 4:26:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 13, 2020 4:26:14 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 13, 2020 4:26:14 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 13, 2020 4:26:14 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 20, 2020 10:44:45 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 20, 2020 10:44:46 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 20, 2020 10:45:21 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/146815e268ff0cb8188.10859614.png\",\"bannerAction\":\"https:\\\/\\\/www.free-css.com\\\/template-categories\\\/control-panel\"}"}, channel=era}
+ene 20, 2020 10:45:25 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 20, 2020 10:45:25 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 20, 2020 10:45:25 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 20, 2020 10:45:25 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 20, 2020 10:45:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 20, 2020 10:45:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 20, 2020 10:45:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 20, 2020 10:45:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 20, 2020 10:45:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 20, 2020 10:45:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 20, 2020 10:45:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 20, 2020 10:45:26 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 21, 2020 12:14:25 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 21, 2020 12:14:26 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 21, 2020 12:14:44 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/166305e26a4e3e4b136.95786356.png\",\"bannerAction\":\"https:\\\/\\\/www.free-css.com\\\/template-categories\\\/control-panel\"}"}, channel=era}
+ene 21, 2020 12:14:46 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 21, 2020 12:14:46 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 21, 2020 12:14:46 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 21, 2020 12:14:46 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 21, 2020 12:14:46 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 21, 2020 12:14:46 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 21, 2020 12:14:46 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 21, 2020 12:14:46 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 21, 2020 12:14:46 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 21, 2020 12:14:46 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 21, 2020 12:14:47 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 21, 2020 12:14:47 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 21, 2020 8:01:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTED
+ene 21, 2020 8:02:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+ene 21, 2020 8:02:37 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 21, 2020 8:46:48 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTED
+ene 21, 2020 8:46:57 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+ene 21, 2020 8:46:58 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 21, 2020 12:55:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTED
+ene 21, 2020 12:55:46 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+ene 21, 2020 12:55:47 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 21, 2020 8:04:56 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTED
+ene 21, 2020 8:05:54 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+ene 21, 2020 8:05:55 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 23, 2020 2:13:14 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 23, 2020 2:13:16 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 30, 2020 11:46:52 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 30, 2020 11:46:57 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 30, 2020 12:04:34 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 30, 2020 12:04:35 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 31, 2020 2:13:22 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting instance repository manager
+ene 31, 2020 2:13:22 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license repository
+ene 31, 2020 2:13:22 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting channel
+ene 31, 2020 2:13:22 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license
+ene 31, 2020 2:13:23 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 2:13:24 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Initial SessionFactory creation failed.org.hibernate.HibernateException: /hibernate.cfg.xml not found
+ene 31, 2020 2:15:48 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting instance repository manager
+ene 31, 2020 2:15:48 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license repository
+ene 31, 2020 2:15:48 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting channel
+ene 31, 2020 2:15:48 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license
+ene 31, 2020 2:15:48 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 2:15:51 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 2:15:52 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 2:15:52 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: testera_5e33e65cafa28
+ene 31, 2020 2:15:52 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 2:15:52 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 2:15:52 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 2:15:52 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 2:15:52 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 2:15:52 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 2:15:52 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 2:15:52 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 2:15:52 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 2:15:53 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 2:15:53 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 2:16:13 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 2:16:13 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 2:16:13 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 2:16:13 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: testera_5e33e65cafa28
+ene 31, 2020 2:16:13 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 2:16:13 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 2:16:13 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 2:16:13 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 2:16:13 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 2:16:13 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 2:16:13 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 2:16:14 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 2:16:14 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 2:16:14 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 2:16:14 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 2:16:19 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning license: null
+ene 31, 2020 2:16:59 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting instance repository manager
+ene 31, 2020 2:17:00 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license repository
+ene 31, 2020 2:17:00 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting channel
+ene 31, 2020 2:17:00 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license
+ene 31, 2020 2:17:00 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 2:17:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 2:17:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 2:17:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 2:17:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 2:17:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 2:17:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 2:17:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 2:17:04 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 2:17:04 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 2:17:04 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 2:17:04 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 2:17:04 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 2:17:04 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 2:17:04 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 2:17:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 2:17:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 2:17:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 2:17:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 2:17:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 2:17:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 2:17:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 2:17:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 2:17:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 2:17:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 2:17:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 2:17:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 2:17:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 2:17:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 2:17:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 2:17:41 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning license: com.era.models.License@3fffff43
+ene 31, 2020 2:17:41 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning channel: PREMIUM
+ene 31, 2020 2:17:48 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: channel = PREMIUM
+ene 31, 2020 2:17:58 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 31, 2020 2:18:02 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 31, 2020 2:47:27 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting instance repository manager
+ene 31, 2020 2:47:27 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license repository
+ene 31, 2020 2:47:27 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting channel
+ene 31, 2020 2:47:27 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license
+ene 31, 2020 2:47:27 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 2:47:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 2:47:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 2:47:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 2:47:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 2:47:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 2:47:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 2:47:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 2:47:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 2:47:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 2:47:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 2:47:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 2:47:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 2:47:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 2:47:28 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 2:47:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 2:47:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 2:47:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 2:47:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 2:47:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 2:47:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 2:47:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 2:47:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 2:47:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 2:47:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 2:47:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 2:47:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 2:47:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 2:47:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 2:47:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 2:47:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning license: com.era.models.License@2a54a73f
+ene 31, 2020 2:47:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning channel: PREMIUM
+ene 31, 2020 2:47:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: channel = PREMIUM
+ene 31, 2020 2:47:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 31, 2020 2:47:40 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 31, 2020 2:54:22 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting instance repository manager
+ene 31, 2020 2:54:23 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license repository
+ene 31, 2020 2:54:23 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting channel
+ene 31, 2020 2:54:23 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license
+ene 31, 2020 2:54:23 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 2:54:24 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 2:54:24 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 2:54:24 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 2:54:24 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 2:54:24 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 2:54:24 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 2:54:24 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 2:54:24 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 2:54:24 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 2:54:24 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 2:54:24 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 2:54:24 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 2:54:24 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 2:54:24 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning license: com.era.models.License@fd8294b
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning channel: PREMIUM
+ene 31, 2020 2:54:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: channel = PREMIUM
+ene 31, 2020 2:54:35 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 31, 2020 2:54:38 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 31, 2020 2:59:10 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting instance repository manager
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license repository
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting channel
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 2:59:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning license: com.era.models.License@2a54a73f
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning channel: PREMIUM
+ene 31, 2020 2:59:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: channel = PREMIUM
+ene 31, 2020 2:59:17 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 31, 2020 2:59:21 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 31, 2020 3:05:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting instance repository manager
+ene 31, 2020 3:05:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license repository
+ene 31, 2020 3:05:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting channel
+ene 31, 2020 3:05:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license
+ene 31, 2020 3:05:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 3:05:04 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 3:05:04 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 3:05:05 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 3:05:05 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 3:05:05 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 3:05:05 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 3:05:05 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 3:05:05 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 3:05:05 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 3:05:05 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 3:05:05 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 3:05:05 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 3:05:05 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 3:05:05 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning license: com.era.models.License@2a54a73f
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning channel: PREMIUM
+ene 31, 2020 3:05:11 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: channel = PREMIUM
+ene 31, 2020 3:05:12 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 31, 2020 3:05:16 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 31, 2020 3:08:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting instance repository manager
+ene 31, 2020 3:08:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license repository
+ene 31, 2020 3:08:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting channel
+ene 31, 2020 3:08:29 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license
+ene 31, 2020 3:08:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 3:08:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 3:08:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 3:08:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 3:08:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 3:08:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 3:08:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 3:08:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 3:08:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 3:08:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 3:08:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 3:08:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 3:08:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 3:08:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 3:08:30 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 3:08:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 3:08:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 3:08:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 3:08:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 3:08:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 3:08:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 3:08:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 3:08:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 3:08:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 3:08:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 3:08:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 3:08:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 3:08:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 3:08:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 3:08:36 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 3:08:37 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning license: com.era.models.License@2a54a73f
+ene 31, 2020 3:08:37 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning channel: PREMIUM
+ene 31, 2020 3:08:37 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: channel = PREMIUM
+ene 31, 2020 3:08:37 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 31, 2020 3:08:41 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 31, 2020 3:08:59 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/107665e33f79a572136.26459091.png\",\"bannerAction\":\"http:\\\/\\\/localhost\\\/push_notifications\"}"}, channel=PREMIUM}
+ene 31, 2020 3:09:02 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 31, 2020 3:09:02 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 31, 2020 3:09:02 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 31, 2020 3:09:02 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 31, 2020 3:09:02 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 31, 2020 3:09:02 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 31, 2020 3:09:02 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 31, 2020 3:09:02 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 31, 2020 3:09:02 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 31, 2020 3:09:02 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 31, 2020 3:09:02 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 31, 2020 3:09:02 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 31, 2020 3:09:02 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/213165e33f88ddb7aa7.74924308.png\",\"bannerAction\":\"http:\\\/\\\/localhost\\\/push_notifications\"}"}, channel=PREMIUM}
+ene 31, 2020 3:09:02 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 31, 2020 3:09:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 31, 2020 3:09:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 31, 2020 3:09:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 31, 2020 3:09:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 31, 2020 3:09:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 31, 2020 3:09:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 31, 2020 3:09:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 31, 2020 3:09:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 31, 2020 3:09:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 31, 2020 3:09:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 31, 2020 3:09:03 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 31, 2020 7:57:53 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTED
+ene 31, 2020 7:57:54 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+ene 31, 2020 8:01:39 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTING
+ene 31, 2020 8:01:39 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: There was a problem connecting! code: null, exception: ws-us2.pusher.com
+ene 31, 2020 8:01:43 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+ene 31, 2020 8:01:43 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTING
+ene 31, 2020 8:01:43 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: There was a problem connecting! code: null, exception: ws-us2.pusher.com
+ene 31, 2020 8:01:52 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+ene 31, 2020 8:01:54 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 31, 2020 8:45:42 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTED
+ene 31, 2020 8:46:44 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+ene 31, 2020 8:46:44 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTING
+ene 31, 2020 8:46:44 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: There was a problem connecting! code: null, exception: ws-us2.pusher.com
+ene 31, 2020 8:46:48 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+ene 31, 2020 8:46:48 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTING
+ene 31, 2020 8:46:48 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: There was a problem connecting! code: null, exception: ws-us2.pusher.com
+ene 31, 2020 8:46:57 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+ene 31, 2020 8:46:57 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTING
+ene 31, 2020 8:46:57 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: There was a problem connecting! code: null, exception: ws-us2.pusher.com
+ene 31, 2020 8:47:13 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+ene 31, 2020 8:47:13 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTING
+ene 31, 2020 8:47:13 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: There was a problem connecting! code: null, exception: ws-us2.pusher.com
+ene 31, 2020 8:47:38 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+ene 31, 2020 8:47:38 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTING
+ene 31, 2020 8:47:38 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: There was a problem connecting! code: null, exception: ws-us2.pusher.com
+ene 31, 2020 8:48:08 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+ene 31, 2020 8:48:08 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to DISCONNECTING from CONNECTING
+ene 31, 2020 8:48:08 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: There was a problem connecting! code: null, exception: ws-us2.pusher.com
+ene 31, 2020 8:48:08 AM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to DISCONNECTED from DISCONNECTING
+ene 31, 2020 4:45:39 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting instance repository manager
+ene 31, 2020 4:45:39 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license repository
+ene 31, 2020 4:45:39 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting channel
+ene 31, 2020 4:45:39 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license
+ene 31, 2020 4:45:39 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 4:45:40 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 4:45:40 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 4:45:40 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 4:45:41 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 4:45:41 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 4:45:41 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 4:45:41 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 4:45:41 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 4:45:41 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 4:45:41 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 4:45:41 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 4:45:41 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 4:45:41 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 4:45:41 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 4:46:01 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting instance repository manager
+ene 31, 2020 4:46:01 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license repository
+ene 31, 2020 4:46:01 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting channel
+ene 31, 2020 4:46:01 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license
+ene 31, 2020 4:46:01 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 4:46:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 4:46:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 4:46:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 4:46:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 4:46:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 4:46:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 4:46:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 4:46:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 4:46:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 4:46:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 4:46:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 4:46:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 4:46:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 4:46:02 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 4:46:10 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 4:46:10 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 4:46:10 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 4:46:10 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 4:46:10 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 4:46:10 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 4:46:10 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 4:46:10 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 4:46:10 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 4:46:10 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 4:46:10 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 4:46:10 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 4:46:10 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 4:46:10 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 4:46:10 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 4:46:11 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning license: com.era.models.License@2a54a73f
+ene 31, 2020 4:46:11 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning channel: PREMIUM
+ene 31, 2020 4:46:11 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: channel = PREMIUM
+ene 31, 2020 4:46:13 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 31, 2020 4:46:15 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 31, 2020 4:48:23 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting instance repository manager
+ene 31, 2020 4:48:23 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license repository
+ene 31, 2020 4:48:23 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting channel
+ene 31, 2020 4:48:23 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Getting license
+ene 31, 2020 4:48:23 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 4:48:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 4:48:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 4:48:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 4:48:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 4:48:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 4:48:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 4:48:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 4:48:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 4:48:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 4:48:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 4:48:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 4:48:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 4:48:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 4:48:24 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 4:48:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Creating SessionFactory
+ene 31, 2020 4:48:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global HibernateConfigModel
+ene 31, 2020 4:48:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global instance: localhost
+ene 31, 2020 4:48:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global database: dbempresas
+ene 31, 2020 4:48:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global port: 3306
+ene 31, 2020 4:48:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global username: root
+ene 31, 2020 4:48:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Building session factory from global password: a5z8y1Tadeo
+ene 31, 2020 4:48:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Company
+ene 31, 2020 4:48:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.License
+ene 31, 2020 4:48:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.PushNotification
+ene 31, 2020 4:48:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.BasDats
+ene 31, 2020 4:48:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Product
+ene 31, 2020 4:48:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Serie
+ene 31, 2020 4:48:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.DocumentOrigin
+ene 31, 2020 4:48:30 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Adding annotated class class com.era.models.Customer
+ene 31, 2020 4:48:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning license: com.era.models.License@2a54a73f
+ene 31, 2020 4:48:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Hibernate: Returning channel: PREMIUM
+ene 31, 2020 4:48:31 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: channel = PREMIUM
+ene 31, 2020 4:48:32 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from DISCONNECTED
+ene 31, 2020 4:48:34 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING
+ene 31, 2020 4:51:58 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/107665e33f79a572136.26459091.png\",\"bannerAction\":\"http:\\\/\\\/localhost\\\/push_notifications\"}"}, channel=PREMIUM}
+ene 31, 2020 4:52:04 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 31, 2020 4:52:04 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 31, 2020 4:52:05 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/213165e33f88ddb7aa7.74924308.png\",\"bannerAction\":\"http:\\\/\\\/localhost\\\/push_notifications\"}"}, channel=PREMIUM}
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/213165e33f88ddb7aa7.74924308.png\",\"bannerAction\":\"http:\\\/\\\/localhost\\\/push_notifications\"}"}, channel=PREMIUM}
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 31, 2020 4:52:06 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/5315e34bc775eb533.73108297.png\",\"bannerAction\":\"http:\\\/\\\/localhost\\\/push_notifications\"}"}, channel=PREMIUM}
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/5315e34bc775eb533.73108297.png\",\"bannerAction\":\"http:\\\/\\\/localhost\\\/push_notifications\"}"}, channel=PREMIUM}
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 31, 2020 4:52:07 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/39935e34bd5e6b8604.89656511.png\",\"bannerAction\":\"http:\\\/\\\/localhost\\\/push_notifications\"}"}, channel=PREMIUM}
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Received event with data: {event=main-event, data={"message":"{\"urlBanner\":\"http:\\\/\\\/localhost\\\/banners\\\/39935e34bd5e6b8604.89656511.png\",\"bannerAction\":\"http:\\\/\\\/localhost\\\/push_notifications\"}"}, channel=PREMIUM}
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.1
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.2
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.3
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.4
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.5
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.6
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.70000005
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.8000001
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Setting opacity: 0.9000001
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 31, 2020 4:52:08 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Opacity reached limit: 1.0000001
+ene 31, 2020 4:52:09 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Saving in database the push notification
+ene 31, 2020 4:52:09 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: Push notification saved into database
+ene 31, 2020 6:27:46 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to RECONNECTING from CONNECTED
+ene 31, 2020 6:28:03 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTING from RECONNECTING
+ene 31, 2020 6:28:04 PM com.era.logger.LoggerUtility logInfo
+INFORMACIÓN: Logger: Push Notifications: State changed to CONNECTED from CONNECTING

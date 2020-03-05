@@ -1,0 +1,67 @@
+ene 11, 2020 2:35:00 PM com.era.logger.LoggerUtility logError
+INFORMACIÓN: Error: java.net.MalformedURLException
+	at java.net.URL.<init>(URL.java:644)
+	at java.net.URL.<init>(URL.java:507)
+	at java.net.URL.<init>(URL.java:456)
+	at com.era.views.PushNotificationJFrame.<init>(PushNotificationJFrame.java:58)
+	at com.era.views.managers.RenderViewManager.getPushNotificationJFrame(RenderViewManager.java:43)
+	at com.era.pushernotifications.TrayIconManager.showPushNotification(TrayIconManager.java:76)
+	at com.era.pushnotifications.main.lambda$main$0(main.java:32)
+	at com.era.pushernotifications.PusherPushNotificationsManager.lambda$connect$0(PusherPushNotificationsManager.java:84)
+	at com.pusher.client.channel.impl.ChannelImpl$1.run(ChannelImpl.java:116)
+	at com.pusher.client.util.Factory$1.run(Factory.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.NullPointerException
+	at java.net.URL.<init>(URL.java:549)
+	... 12 more
+
+ene 11, 2020 2:45:38 PM com.era.logger.LoggerUtility logError
+INFORMACIÓN: Error: java.lang.IllegalArgumentException: The value of opacity should be in the range [0.0f .. 1.0f].
+	at java.awt.Window.setOpacity(Window.java:3614)
+	at java.awt.Frame.setOpacity(Frame.java:962)
+	at com.era.views.BaseJFrame.setVisible(BaseJFrame.java:61)
+	at com.era.views.BaseJFrame.setVisible(BaseJFrame.java:31)
+	at com.era.views.PushNotificationJFrame.setVisible(PushNotificationJFrame.java:130)
+	at com.era.pushernotifications.TrayIconManager.showPushNotification(TrayIconManager.java:78)
+	at com.era.pushnotifications.main.lambda$main$0(main.java:32)
+	at com.era.pushernotifications.PusherPushNotificationsManager.lambda$connect$0(PusherPushNotificationsManager.java:84)
+	at com.pusher.client.channel.impl.ChannelImpl$1.run(ChannelImpl.java:116)
+	at com.pusher.client.util.Factory$1.run(Factory.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+ene 11, 2020 2:47:08 PM com.era.logger.LoggerUtility logError
+INFORMACIÓN: Error: java.lang.IllegalArgumentException: The value of opacity should be in the range [0.0f .. 1.0f].
+	at java.awt.Window.setOpacity(Window.java:3614)
+	at java.awt.Frame.setOpacity(Frame.java:962)
+	at com.era.views.BaseJFrame.setVisible(BaseJFrame.java:61)
+	at com.era.views.BaseJFrame.setVisible(BaseJFrame.java:31)
+	at com.era.views.PushNotificationJFrame.setVisible(PushNotificationJFrame.java:130)
+	at com.era.pushernotifications.TrayIconManager.showPushNotification(TrayIconManager.java:78)
+	at com.era.pushnotifications.main.lambda$main$0(main.java:32)
+	at com.era.pushernotifications.PusherPushNotificationsManager.lambda$connect$0(PusherPushNotificationsManager.java:84)
+	at com.pusher.client.channel.impl.ChannelImpl$1.run(ChannelImpl.java:116)
+	at com.pusher.client.util.Factory$1.run(Factory.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+ene 11, 2020 2:49:56 PM com.era.logger.LoggerUtility logError
+INFORMACIÓN: Error: java.lang.IllegalArgumentException: The value of opacity should be in the range [0.0f .. 1.0f].
+	at java.awt.Window.setOpacity(Window.java:3614)
+	at java.awt.Frame.setOpacity(Frame.java:962)
+	at com.era.views.BaseJFrame.setVisible(BaseJFrame.java:62)
+	at com.era.views.BaseJFrame.setVisible(BaseJFrame.java:32)
+	at com.era.views.PushNotificationJFrame.setVisible(PushNotificationJFrame.java:130)
+	at com.era.pushernotifications.TrayIconManager.showPushNotification(TrayIconManager.java:78)
+	at com.era.pushnotifications.main.lambda$main$0(main.java:32)
+	at com.era.pushernotifications.PusherPushNotificationsManager.lambda$connect$0(PusherPushNotificationsManager.java:84)
+	at com.pusher.client.channel.impl.ChannelImpl$1.run(ChannelImpl.java:116)
+	at com.pusher.client.util.Factory$1.run(Factory.java:109)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+

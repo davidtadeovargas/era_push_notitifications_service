@@ -9,7 +9,7 @@ import com.era.logger.LoggerUtility;
 import com.era.pushernotifications.PusherPushNotificationsManager;
 import com.era.pushernotifications.TrayIconManager;
 import com.era.pushernotifications.data.PushDataModel;
-import com.era.repositories.RepositoryManager;
+import com.era.repositories.RepositoryFactory;
 import com.era.repositories.models.HibernateConfigModel;
 import com.era.repositories.utils.HibernateUtil;
 
@@ -30,9 +30,9 @@ public class main {
             HibernateConfigModel.setPort(3306);
             HibernateConfigModel.setInstance("localhost");
             HibernateConfigModel.setDatabase("dbempresas");
-            HibernateUtil.setHibernateConfigModel(HibernateConfigModel);
+            HibernateUtil.getSingleton().setHibernateConfigModel(HibernateConfigModel);
             
-            final String channel = RepositoryManager.getInstance().getLicenseRepository().getChannel();
+            final String channel = RepositoryFactory.getInstance().getLicenseRepository().getChannel();
             
             LoggerUtility.getSingleton().logInfo(PusherPushNotificationsManager.class, "Push Notifications: channel = " + channel);
             

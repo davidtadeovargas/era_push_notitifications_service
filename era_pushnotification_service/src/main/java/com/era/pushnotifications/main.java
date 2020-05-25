@@ -30,7 +30,8 @@ public class main {
             HibernateConfigModel.setPort(3306);
             HibernateConfigModel.setInstance("localhost");
             HibernateConfigModel.setDatabase("dbempresas");
-            HibernateUtil.getSingleton().setHibernateConfigModel(HibernateConfigModel);
+            HibernateUtil.getSingleton().setHibernateConfigModelDbEmpresas(HibernateConfigModel);
+            HibernateUtil.getSingleton().loadDbEmpresas();
             
             final String channel = RepositoryFactory.getInstance().getLicenseRepository().getChannel();
             

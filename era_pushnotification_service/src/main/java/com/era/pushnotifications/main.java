@@ -33,7 +33,7 @@ public class main {
             HibernateUtil.getSingleton().setHibernateConfigModelDbEmpresas(HibernateConfigModel);
             HibernateUtil.getSingleton().loadDbEmpresas();
             
-            final String channel = RepositoryFactory.getInstance().getLicenseRepository().getChannel();
+            final String channel = RepositoryFactory.getInstance().getLicensesRepository().getChannel();
             
             LoggerUtility.getSingleton().logInfo(PusherPushNotificationsManager.class, "Push Notifications: channel = " + channel);
             
